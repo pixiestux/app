@@ -21,7 +21,7 @@
 
     <preference name="Orientation" value="landscape" />
 
-    <icon src="img/gap/icon.png" />
+    <icon src="img/gap/icon.png" width="64" height="64"/>
 
 </widget>
 
