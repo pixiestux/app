@@ -17,8 +17,9 @@
         By Pixiestux
     </author>
 
+    <preference name="Fullscreen" value="true" />
+
+    <preference name="Orientation" value="landscape" />
+
 </widget>
 
-<preference name="Fullscreen" value="true" />
-
-<preference name="Orientation" value="landscape" />
