@@ -9,6 +9,9 @@
 
     <name>Beta Expo App</name>
 
+    <preference name="Orientation" value="landscape"/>
+    <preference name="Fullscreen" value="true"/>
+
     <description>
         Primera beta de App Expo 
     </description>
@@ -17,9 +20,7 @@
         By Pixiestux
     </author>
 
-    <preference name="Fullscreen" value="true" />
-
-    <preference name="Orientation" value="landscape" />
+    
 
     <icon src="img/gap/icon.png" width="64" height="64"/>
 
